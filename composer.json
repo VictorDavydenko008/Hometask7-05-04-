@@ -1,0 +1,16 @@
+{
+    "name": "prog/myproject",
+    "description": "My first project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Prog\\Myproject\\": "MyProject/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Suzu"
+        }
+    ],
+    "require": {}
+}
